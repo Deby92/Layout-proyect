@@ -1,0 +1,33 @@
+body{
+    background:lightgrey; 
+    margin: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+header{
+    background:white;
+    text-align:center;
+    padding: 7px;
+}
+.parent{
+    background: white;
+    display: flex;
+    width: 400px;
+    margin: auto;
+    margin-top: 25px;
+}
+.secondh{
+    margin:10px;
+    display:inline-block;
+}
+#date{
+    float:right;
+    text-align: top right;
+    color: grey;
+    margin: 0px;
+    padding: 10px;  
+}
+p{
+    text-align:left
+    padding: 10px;
+    margin: 10px;
+}
